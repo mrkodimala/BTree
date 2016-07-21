@@ -1,0 +1,11 @@
+1,Mahendar,SMEC
+2,Vishnu,BVRIT
+3,Chirag,CVR
+4,Shilpa takur,MGIT
+5,Naresh,Vasavi
+6,Rohit,Raghu
+7,mahi,GVP
+8,Anusha,Vasavi
+9,Shruthi,ANITS
+10,Bhargavi,SMEC
+11,Anusha,Vasavi
